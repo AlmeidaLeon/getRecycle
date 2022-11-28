@@ -19,6 +19,7 @@
   "dependencies": {
     "@fastify/cors": "^8.2.0",
     "@prisma/client": "^4.6.1",
-    "fastify": "^4.10.2"
+    "fastify": "^4.10.2",
+    "node": "^18.12.1"
   }
 }
